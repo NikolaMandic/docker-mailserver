@@ -30,10 +30,6 @@ Why I created this image: [Simple mail server with Docker](http://tvi.al/simple-
 - [includes integration tests](https://travis-ci.org/tomav/docker-mailserver) 
 - [builds automated on docker hub](https://hub.docker.com/r/tvial/docker-mailserver/)
 
-## installation
-
-	docker pull tvial/docker-mailserver
-
 ## build
 
 	docker build -t tvial/docker-mailserver .
